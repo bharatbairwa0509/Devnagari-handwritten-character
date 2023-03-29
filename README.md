@@ -1,1 +1,0 @@
-# Devnagari-handwritten-character
